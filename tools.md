@@ -1,7 +1,7 @@
 # OpenTerrainData
-An attempt to catalog free and opensource terrain data sources and tools
+[Home](./README.md) An attempt to catalog free and opensource terrain data sources and tools
 
-# Please contribute!  Please share.  This is on Github for a reason.
+# Tools
 
 https://github.com/geoadmin/3d-forge
 
