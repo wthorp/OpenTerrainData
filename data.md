@@ -40,3 +40,7 @@ USGS SRTM 1 Second Global : https://lta.cr.usgs.gov/SRTM1Arc
 CGIAR SRTM : http://srtm.csi.cgiar.org/
 
 GTOPO30 : https://lta.cr.usgs.gov/GTOPO30
+
+from https://github.com/tilezen/joerd/blob/master/docs/data-sources.md
+
+...todo
