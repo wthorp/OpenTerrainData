@@ -23,3 +23,6 @@ Quantized Mesh
 
 https://github.com/AnalyticalGraphicsInc/quantized-mesh
 
+High Resolution Elevation (HRE)
+
+http://www.pcigeomatics.com/geomatica-help/references/gdb_r/HRE.html
