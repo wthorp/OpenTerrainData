@@ -1,12 +1,15 @@
 # OpenTerrainData
 [Home](./README.md) An attempt to catalog free and opensource terrain data sources and tools
 
-# 3D Web Globes
+# Open source software
 
-https://github.com/AnalyticalGraphicsInc/cesium
+[Cesium](https://github.com/AnalyticalGraphicsInc/cesium)
 Uses quantized mesh for terrain
 
-https://github.com/NASAWorldWind/WebWorldWind
+[Web WorldWind](https://worldwind.arc.nasa.gov/web/)
+Uses bil16 (rasters) and geoserver for terrain
+
+[WorldWind Java](https://worldwind.arc.nasa.gov/java/)
 Uses bil16 (rasters) and geoserver for terrain
 
 # Closed source software
