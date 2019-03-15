@@ -7,16 +7,16 @@
 Uses quantized mesh for terrain
 
 [Web WorldWind](https://worldwind.arc.nasa.gov/web/)
-Uses bil16 (rasters) and geoserver for terrain
+Uses bil16 [raster] and geoserver for terrain
 
 [WorldWind Java](https://worldwind.arc.nasa.gov/java/)
-Uses bil16 (rasters) and geoserver for terrain
+Uses bil16 [raster] and geoserver for terrain
 
 # Closed source software
 (* indicates free-as-in-beer)
 
 *[ArcGIS Earth](https://www.esri.com/en-us/arcgis/products/arcgis-earth)
-Seems to use raster [ArcGIS Server ImageServer](https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer)
+Seems to use [ArcGIS Server ImageServer](https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer) [raster]
 
 [ArcGlobe](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
 Seems to use [ArcGIS Server GlobeServer](http://services.arcgisonline.com/arcgis/services/Elevation/USGS_Elevation_US/GlobeServer)
