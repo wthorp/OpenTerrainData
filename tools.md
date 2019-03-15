@@ -11,8 +11,11 @@ Uses bil16 (rasters) and geoserver for terrain
 
 # Free-as-in-beer clients
 
-https://www.esri.com/en-us/arcgis/products/arcgis-earth
+[ArcGIS Earth](https://www.esri.com/en-us/arcgis/products/arcgis-earth)
 Seems to use [raster based elevation](https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer)
+
+[Google Earth Enterprise](https://github.com/google/earthenterprise/wiki/Google-Earth-Enterprise-Client-(EC))
+Uses a custom tiled-TIN (quantized-mesh-like)
 
 # Tools
 
@@ -35,4 +38,4 @@ https://github.com/heremaps/quantized-mesh-viewer
 (JS) debug individual tiles using THREE.js renderer
 
 https://github.com/google/earthenterprise
-(C) builds a tiled-TIN (quantized-mesh-like) 
+(C) uses a custom tiled-TIN (quantized-mesh-like) 
