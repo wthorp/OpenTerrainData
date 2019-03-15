@@ -13,16 +13,16 @@ Uses bil16 (rasters) and geoserver for terrain
 Uses bil16 (rasters) and geoserver for terrain
 
 # Closed source software
-(* means free-as-in-beer)
+(* indicates free-as-in-beer)
 
 *[ArcGIS Earth](https://www.esri.com/en-us/arcgis/products/arcgis-earth)
 Seems to use raster [ArcGIS Server ImageServer](https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer)
 
-*[Google Earth Enterprise](https://github.com/google/earthenterprise/wiki/Google-Earth-Enterprise-Client-(EC))
-Uses a custom tiled-TIN (quantized-mesh-like)
-
 [ArcGlobe](http://desktop.arcgis.com/en/arcmap/latest/extensions/3d-analyst/3d-analyst-and-arcglobe.htm)
 Seems to use [ArcGIS Server GlobeServer](http://services.arcgisonline.com/arcgis/services/Elevation/USGS_Elevation_US/GlobeServer)
+
+*[Google Earth Enterprise](https://github.com/google/earthenterprise/wiki/Google-Earth-Enterprise-Client-(EC))
+Uses a custom tiled-TIN (quantized-mesh-like)
 
 # Tools
 
