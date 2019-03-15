@@ -9,6 +9,11 @@ Uses quantized mesh for terrain
 https://github.com/NASAWorldWind/WebWorldWind
 Uses bil16 (rasters) and geoserver for terrain
 
+# Free-as-in-beer clients
+
+https://www.esri.com/en-us/arcgis/products/arcgis-earth
+Seems to use [raster based elevation](https://elevation3d.arcgis.com/arcgis/rest/services/WorldElevation3D/Terrain3D/ImageServer)
+
 # Tools
 
 https://github.com/geoadmin/3d-forge
