@@ -46,3 +46,10 @@ https://github.com/heremaps/quantized-mesh-viewer
 
 https://github.com/google/earthenterprise
 (C) uses a custom tiled-TIN (quantized-mesh-like) 
+
+https://github.com/tkrajina/go-elevations
+(Go) SRTM parser for golang
+
+https://github.com/tkrajina/srtm.py
+(Python) SRTM.py is a python parser for the Shuttle Radar Topography Mission elevation data
+
