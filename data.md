@@ -40,8 +40,12 @@ ASTER                            | 30m     | Y | [Link](http://gdem.ersdac.jspac
 # Warehouses
 
 [NASA EarthData Search](https://search.earthdata.nasa.gov/search)
+
 [USGS Global Data Explorer](http://gdex.cr.usgs.gov/gdex/)
+
 [USGS Earth Explorer](https://earthexplorer.usgs.gov/)
+
 [USGS National Map](https://viewer.nationalmap.gov/basic/)
+
 [NOAA Data Access Viewer](https://www.coast.noaa.gov/dataviewer/#/lidar/search/)
 
