@@ -12,6 +12,10 @@ Uses bil16 [raster] and geoserver for terrain
 [WorldWind Java](https://worldwind.arc.nasa.gov/java/)
 Uses bil16 [raster] and geoserver for terrain
 
+[MapBox GL](https://docs.mapbox.com/help/glossary/mapbox-gl/)
+[2.5D terrain extrusion blog post](https://blog.mapbox.com/how-to-extrude-vector-terrain-with-hypsometric-tints-e0fdee097c6)
+[3D Terrain Open Ticket](https://github.com/mapbox/mapbox-gl-js/issues/1489)
+
 # Closed source software
 (* indicates free-as-in-beer)
 
